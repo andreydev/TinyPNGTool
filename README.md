@@ -17,4 +17,5 @@ Usage:
 ```
 
 <i>Get API key here:</i>
+
 https://tinypng.com/developers
