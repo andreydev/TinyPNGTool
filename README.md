@@ -7,12 +7,15 @@ Install the API client:
 ```
 pip install tinify
 ```
-</br>
 
-```optional arguments:</br></br>
-  -ak, --apikey APIKEY <b>API key to use</b></br>
-  -ms, --minsize MINSIZE <b>Minimum size to upload in bytes, default is 100KB</b></br>
-  -i, --ignore IGNORE [IGNORE ...] <b>Ignored file names separated by space (Example: -i file1.png file2.png)</b></br>
+Usage:
+
+```optional arguments:
+-ak, --apikey APIKEY API key to use
+-ms, --minsize MINSIZE Minimum size to upload in bytes, default is 100KB
+-i, --ignore IGNORE [IGNORE ...] Ignored file names separated by space (Example: -i file1.png file2.png)
 ```
-</br><i>Get API key here:</i></br>
+
+<i>Get API key here:</i>
+
 https://tinypng.com/developers
