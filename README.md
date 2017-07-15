@@ -16,6 +16,5 @@ Usage:
 -i, --ignore IGNORE [IGNORE ...] Ignored file names separated by space (Example: -i file1.png file2.png)
 ```
 
-<i>Get API key here:</i>
-
+Get API key here:</br>
 https://tinypng.com/developers
