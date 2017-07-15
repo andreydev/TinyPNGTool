@@ -1,5 +1,5 @@
 # TinyPNG Tool
-TinyPNG python uploading tool</br></br>
+TinyPNG Python uploading tool</br></br>
 optional arguments:</br></br>
   -ak, --apikey APIKEY <b>API key to use</b></br>
   -ms, --minsize MINSIZE <b>Minimum size to upload in bytes, default is 100KB</b></br>
